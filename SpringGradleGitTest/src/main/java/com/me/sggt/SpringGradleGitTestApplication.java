@@ -9,6 +9,7 @@ public class SpringGradleGitTestApplication {
 	public static void main(String[] args) {
 		//123132132
 		SpringApplication.run(SpringGradleGitTestApplication.class, args);
+		//wijhqbijrbjkrb
 	}
 
 }
